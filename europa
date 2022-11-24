@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Turisticos da Europa</title>
+</head>
+<body>
+    <header>
+        <h1>Lugares Turisticos da Europa</h1>
+            <ul>
+                <li>Cidades Principais</li>
+                <li>Pontos Turísticos</li>
+            </ul>
+    </header>
+    <main>
+        <section>
+            <img src="./imagens/nuremberg.jpg" alt="" width="400px" height="200px"/>
+            <h2>Nuremberg, Alemanha</h2>
+            
+            <p>  <a href="https://pt.wikipedia.org/wiki/Nuremberga">Nuremberg</a>   é uma cidade independente alemã, situada ao norte do estado da Baviera na região administrativa da Média Francónia. Nuremberga é a maior cidade da região histórica Francônia</p>
+    
+        </section>
+        <section>
+            <img src="./imagens/munique.jpg" alt="" width="400px" height="200px"/>
+            <h2>Munique, Alemanha</h2>
+            
+            <p> <a href="https://pt.wikipedia.org/wiki/Munique">Munique</a> é uma cidade da Alemanha, capital do estado alemão da Baviera, no sudeste do país. Conta atualmente cerca de 1,3 milhão de habitantes</p>
+    
+        </section>
+        <section>
+            <img src="./imagens/roma.jpg" alt="" width="400px" height="200px"/>
+            <h2>Roma, Itália</h2>
+            
+            <p> <a href="https://pt.wikipedia.org/wiki/Roma">Roma</a> é a capital da Itália e também da região do Lácio, além de ser o centro da Cidade Metropolitana de Roma e de uma comuna especial. Com 2 860 009 residentes em 1 285 km</p>
+    
+        </section>
+        <section>
+            <img src="./imagens/paris.jpg" alt="" width="400px" height="200px"/>
+            <h2>Paris, França</h2>
+            
+            <p> <a href="https://pt.wikipedia.org/wiki/Paris">Paris</a>é a capital e a mais populosa cidade da França, com uma população estimada em 2020 de 2 148 271 habitantes em uma área de 105 quilômetros quadrados.[1] Desde o século XVII, Paris é um dos principais centros de finanças, diplomacia, comércio, moda, ciência e artes da Europa. </p>
+    
+        </section>
+    </main>
+   <footer>
+        Paises da Europa. Todos os direitos reservados
+   </footer>
+
+</body>
+</html>
